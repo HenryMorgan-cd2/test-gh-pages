@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "lib": ["es2017"],
+    "types": ["node"],
+    "jsx": "react",
+    "paths": {
+      "*": ["*", "/home/henry/work/cd2/testiment/node_modules/*"]
+    }
+  }
+}
